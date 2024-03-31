@@ -1,2 +1,2 @@
-# c_practice
+# c-practice
 Random C code for learning 
